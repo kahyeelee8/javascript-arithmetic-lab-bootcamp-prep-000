@@ -4,5 +4,4 @@ function multiply(a, b) {return a * b}
 function divide(a, b) {return a / b}
 function inc(a) {return a + 1}
 function dec(a) {return a - 1}
-function Int(a, base) {return a}
-function preserveDecimal(a) {return 2.222}
+function makeInt(a, base) {return a}
